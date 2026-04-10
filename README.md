@@ -74,5 +74,3 @@ Results / Findings
 1.The model achieved a good ROC-AUC score
 2.Important features were identified using model coefficients
 
-Conclusion
-1.Logistic Regression performs reasonably well for this classification problem.
